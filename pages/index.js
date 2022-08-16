@@ -62,7 +62,7 @@ export default function Home() {
         <br />
         <strong>It does not matter what distance your GPS reads</strong> - without a full Fitzroy it is not a Clawathon.</p>
 
-        <p>The Ultra Trail de Highgate Claw is 5 complete reps of more. At time of writing <a href="https://www.strava.com/activities/6712012484/overview">only one person</a> has completed this.</p>
+        <p>The Ultra Trail de Highgate Claw is 5 complete reps or more. At time of writing <a href="https://www.strava.com/activities/6712012484/overview">only one person</a> has completed this.</p>
       </main>
     </div>
   )
